@@ -25,8 +25,4 @@ O público-alvo do projeto inclui:
 ### 4. **Viabilidade Técnica**
 
 A solução é viável do ponto de vista técnico, pois foi projetada utilizando uma arquitetura escalável e eficiente, baseada em tecnologias de nuvem como:
-- **AWS Lambda** para processamento serverless.
-- **Amazon Redshift** para armazenar e consultar grandes volumes de dados.
-- **Amazon SageMaker** para criação de modelos preditivos com machine learning.
-- **AWS Kinesis** para processamento de dados em tempo real.
-- **Power BI** para visualização interativa dos dados e resultados.
+- **[EM DISCUSSÃO]
