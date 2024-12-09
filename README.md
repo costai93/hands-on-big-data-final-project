@@ -26,3 +26,5 @@ O público-alvo do projeto inclui:
 
 A solução é viável do ponto de vista técnico, pois foi projetada utilizando uma arquitetura escalável e eficiente, baseada em tecnologias de nuvem como:
 - **[EM DISCUSSÃO]
+
+![image](https://github.com/user-attachments/assets/a335c48f-43fa-4955-b725-83587103b837)
