@@ -27,6 +27,9 @@ O público-alvo do projeto inclui:
 A solução é viável do ponto de vista técnico, pois foi projetada utilizando uma arquitetura escalável e eficiente, baseada em tecnologias de nuvem como:
 - **[EM DISCUSSÃO]: Prévia da Arquitetura em Nuvem
 - ![image](https://github.com/user-attachments/assets/ad56de0d-b33e-4d09-90a4-c288c9e498a6)
+- Modelagem Wide Table e Star Schema:
+![image](https://github.com/user-attachments/assets/0140b199-6495-42e2-a947-db4ab9a8fd9a)
+
 
 - Mapeamento conforme a Base de Dados do INCA (Instituto Nacional do Cancer):
 - ![image](https://github.com/user-attachments/assets/cb3553ab-6350-4eb0-983b-a0b060722268)
