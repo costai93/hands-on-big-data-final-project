@@ -1,3 +1,5 @@
+![Data Health consultoria em oncologia (5)](https://github.com/user-attachments/assets/b8d5b18a-f4f9-4330-aa77-6fd0d780c7e9)
+
 # Análise e Previsões de Dados do Câncer de Mama
 
 Este projeto tem como objetivo aprimorar o diagnóstico e tratamento do câncer de mama por meio da análise de dados médicos. Utilizando uma arquitetura de processamento de dados em tempo real e em lote (Lambda Architecture), a solução combina técnicas de machine learning com Big Data para fornecer previsões precisas e insights rápidos que podem apoiar decisões clínicas e pesquisas sobre a doença.
