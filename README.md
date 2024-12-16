@@ -33,8 +33,7 @@ A solução é viável do ponto de vista técnico, pois foi projetada utilizando
 - Modelagem Wide Table e Star Schema (DW):
  ![Diagrama Projeto BIG Data FINAL](https://github.com/user-attachments/assets/071d5973-8cd8-46f1-bc26-d0c1ff863de7)
 - WIDE TABLE
-![image](https://github.com/user-attachments/assets/0140b199-6495-42e2-a947-db4ab9a8fd9a)
-
+![image](https://github.com/user-attachments/assets/3ed085d0-3cbd-4124-bb37-3ea7299d8d41)
 - Mapeamento conforme a Base de Dados do INCA (Instituto Nacional do Cancer):
  ![image](https://github.com/user-attachments/assets/cb3553ab-6350-4eb0-983b-a0b060722268)
 - Modelagem de Dados do INCA no PowerBI:
