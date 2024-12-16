@@ -30,6 +30,8 @@ A solução é viável do ponto de vista técnico, pois foi projetada utilizando
 - **[EM DISCUSSÃO]: Prévia da Arquitetura em Nuvem
 - ![image](https://github.com/user-attachments/assets/ad56de0d-b33e-4d09-90a4-c288c9e498a6)
 - Modelagem Wide Table e Star Schema:
+- ![Diagrama Projeto BIG Data FINAL](https://github.com/user-attachments/assets/071d5973-8cd8-46f1-bc26-d0c1ff863de7)
+- WIDE TABLE
 ![image](https://github.com/user-attachments/assets/0140b199-6495-42e2-a947-db4ab9a8fd9a)
 
 
