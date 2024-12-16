@@ -28,6 +28,8 @@ A solução é viável do ponto de vista técnico, pois foi projetada utilizando
 - **[EM DISCUSSÃO]
 - Mapeamento conforme a Base de Dados do INCA (Instituto Nacional do Cancer):
 - ![image](https://github.com/user-attachments/assets/cb3553ab-6350-4eb0-983b-a0b060722268)
-- 
+- Modelagem PowerBI:
+- ![image](https://github.com/user-attachments/assets/28f1af40-16e0-4f58-8da3-67a216d41683)
+
 
 
