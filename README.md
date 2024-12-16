@@ -1,4 +1,4 @@
-![Data Health consultoria em oncologia (5)](https://github.com/user-attachments/assets/b8d5b18a-f4f9-4330-aa77-6fd0d780c7e9)
+![Data Health consultoria em oncologia (6)](https://github.com/user-attachments/assets/56bd0edf-217f-4fa1-a032-fa8f6ee1c640)
 
 # Análise e Previsões de Dados do Câncer de Mama
 Equipe técnica: Amanda Divina, Tainá Costa e Vinícius Santos
