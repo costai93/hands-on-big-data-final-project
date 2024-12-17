@@ -32,7 +32,7 @@ A solução é viável do ponto de vista técnico, pois foi projetada utilizando
  ![image](https://github.com/user-attachments/assets/ad56de0d-b33e-4d09-90a4-c288c9e498a6)
 - Modelagem Wide Table e Star Schema (DW):
  ![Diagrama Projeto BIG Data FINAL](https://github.com/user-attachments/assets/071d5973-8cd8-46f1-bc26-d0c1ff863de7)
-- WIDE TABLE
+- WIDE TABLE: Utilizar tabelas Wide Tables na análise de dados pode proporcionar algumas vantagens significativas, como por exemplo: Clareza e organização, eficiência no acesso aos dados e facilidade para Análises Exploratórias
 ![image](https://github.com/user-attachments/assets/3ed085d0-3cbd-4124-bb37-3ea7299d8d41)
 - Mapeamento conforme a Base de Dados do INCA (Instituto Nacional do Cancer):
  ![image](https://github.com/user-attachments/assets/cb3553ab-6350-4eb0-983b-a0b060722268)
