@@ -1,4 +1,4 @@
-![Data Health consultoria em oncologia (6)](https://github.com/user-attachments/assets/56bd0edf-217f-4fa1-a032-fa8f6ee1c640)
+![Data Health consultoria em oncologia (10)](https://github.com/user-attachments/assets/80357742-fbb6-480f-be73-76b0d2d40f1e)
 
 # Análise e Previsões de Dados do Câncer de Mama
 Equipe técnica: Amanda Divina, Tainá Costa e Vinícius Santos
@@ -28,16 +28,15 @@ O público-alvo do projeto inclui:
 ### 4. **Viabilidade Técnica**
 
 A solução é viável do ponto de vista técnico, pois foi projetada utilizando uma arquitetura escalável e eficiente, baseada em tecnologias de nuvem como:
-- **[EM DISCUSSÃO]: Prévia da Arquitetura em Nuvem
- ![image](https://github.com/user-attachments/assets/ad56de0d-b33e-4d09-90a4-c288c9e498a6)
-- Modelagem Wide Table e Star Schema (DW):
- ![Diagrama Projeto BIG Data FINAL](https://github.com/user-attachments/assets/071d5973-8cd8-46f1-bc26-d0c1ff863de7)
-- WIDE TABLE: Utilizar tabelas Wide Tables na análise de dados pode proporcionar algumas vantagens significativas, como por exemplo: Clareza e organização, eficiência no acesso aos dados e facilidade para Análises Exploratórias
-![image](https://github.com/user-attachments/assets/3ed085d0-3cbd-4124-bb37-3ea7299d8d41)
+- Arquitetura em Nuvem - AWS CLOUD
+  ![image](https://github.com/user-attachments/assets/99c4834d-cbb9-42fc-9499-ae675f25d1a0)
+  
+- Modelagem aplicada Wide Table: Utilizar tabelas Wide Tables na análise de dados proporciona vantagens como por exemplo: Clareza e organização, eficiência no acesso aos dados e facilidade para Análises Exploratórias
+![image](https://github.com/user-attachments/assets/75b72338-a964-4a8e-8a32-ea5caebdbb30)
+
 - Mapeamento conforme a Base de Dados do INCA (Instituto Nacional do Cancer):
  ![image](https://github.com/user-attachments/assets/cb3553ab-6350-4eb0-983b-a0b060722268)
-- Modelagem de Dados do INCA no PowerBI:
- ![image](https://github.com/user-attachments/assets/28f1af40-16e0-4f58-8da3-67a216d41683)
+
 
 
 
