@@ -1,7 +1,10 @@
 ![Data Health consultoria em oncologia (10)](https://github.com/user-attachments/assets/80357742-fbb6-480f-be73-76b0d2d40f1e)
 
 # Análise e Previsões de Dados do Câncer de Mama
-Equipe técnica: Amanda Divina, Tainá Costa e Vinícius Santos
+Equipe técnica: 
+Amanda Divina 10444892 
+Tainá Costa 104444623 
+Vinícius Santos 10444150
 
 A Data Health é uma empresa de consultoria especializada em soluções de dados para o setor da saúde, com foco no apoio a institutos de pesquisa e pesquisadores. Nossa expertise reside em fornecer suporte tecnológico avançado para o consumo e tratamento eficiente de dados relacionados ao câncer de mama. Facilitamos a análise aprofundada de informações provenientes do DATASUS e DATASENSUS, contribuindo diretamente para pesquisas que podem impulsionar o diagnóstico precoce, o desenvolvimento de novas terapias e, potencialmente, a cura dessa doença. Nosso compromisso é viabilizar descobertas científicas que transformem o panorama da saúde e gerem benefícios significativos para a sociedade como um todo.
 
