@@ -28,7 +28,7 @@ O câncer de mama é uma das principais causas de morte entre mulheres globalmen
 
 #### 3.2 **Laboratórios Farmacêuticos e Indústrias de Biotecnologia**:
 
--Empresas que desenvolvem medicamentos e terapias contra o câncer utilizam dados para identificar necessidades, testar eficácia e monitorar resultados.
+- Empresas que desenvolvem medicamentos e terapias contra o câncer utilizam dados para identificar necessidades, testar eficácia e monitorar resultados.
 
 #### 3.3 **Órgãos Governamentais e Instituições de Saúde Pública**:
 - Agências que criam políticas de saúde e programas de prevenção precisam de análise de dados populacionais para tomar decisões informadas e implementar estratégias eficazes.
