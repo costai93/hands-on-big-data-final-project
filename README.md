@@ -23,23 +23,23 @@ O câncer de mama é uma das principais causas de morte entre mulheres globalmen
 ####3.1 **Hospitais e Clínicas Especializadas**: 
 - Instituições de saúde que buscam aprimorar o diagnóstico e o tratamento do câncer de mama, precisam integrar e analisar dados clínicos para oferecer cuidados personalizados e eficientes.
 
-####3.2 **Centros de Pesquisa e Universidades**:
+#### 3.2 **Centros de Pesquisa e Universidades**:
 - Entidades acadêmicas que realizam estudos sobre o câncer de mam, demandam acesso a dados confiáveis para desenvolver pesquisas e inovações médicas.
 
-####3.2 **Laboratórios Farmacêuticos e Indústrias de Biotecnologia**:
+#### 3.2 **Laboratórios Farmacêuticos e Indústrias de Biotecnologia**:
 
 -Empresas que desenvolvem medicamentos e terapias contra o câncer utilizam dados para identificar necessidades, testar eficácia e monitorar resultados.
 
-####3.3 **Órgãos Governamentais e Instituições de Saúde Pública**:
+#### 3.3 **Órgãos Governamentais e Instituições de Saúde Pública**:
 - Agências que criam políticas de saúde e programas de prevenção precisam de análise de dados populacionais para tomar decisões informadas e implementar estratégias eficazes.
 
-####3.4 **Operadoras de Planos de Saúde e Seguradoras**:
+#### 3.4 **Operadoras de Planos de Saúde e Seguradoras**:
 - Empresas que gerenciam riscos e custos relacionados à saúde, buscam otimizar recursos através da análise de dados epidemiológicos e clínicos.
 
-####3.5 **Organizações Não Governamentais e Instituições Filantrópicas**:
+#### 3.5 **Organizações Não Governamentais e Instituições Filantrópicas**:
 - Grupos que apoiam pacientes e promovem a conscientização sobre o câncer de mama necessitam de dados para direcionar campanhas e medir o impacto de suas ações.
 
-####3.6 **Startups e Empresas de Tecnologia em Saúde**:
+#### 3.6 **Startups e Empresas de Tecnologia em Saúde**:
 - Negócios que desenvolvem soluções tecnológicas para o setor da saúde podem integrar nossa plataforma para aprimorar aplicativos e serviços voltados ao bem-estar e monitoramento de saúde.
 
 ### 4. **Viabilidade Técnica**
