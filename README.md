@@ -9,7 +9,7 @@ A Data Health é uma empresa de consultoria especializada em soluções de dados
 
 ### 1. **Mercado e Aplicação**
 
-EO projeto da **Data Health** está direcionado ao setor da saúde, com ênfase na oncologia, especificamente no combate ao câncer de mama. A solução de arquitetura de dados que estamos desenvolvendo é projetada para atender a diversos segmentos dentro deste mercado.
+O projeto da **Data Health** está direcionado ao setor da saúde, com ênfase na oncologia, especificamente no combate ao câncer de mama. A solução de arquitetura de dados que estamos desenvolvendo é projetada para atender a diversos segmentos dentro deste mercado.
 
 ### 2. **Problema Resolvido**
 
