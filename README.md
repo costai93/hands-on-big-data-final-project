@@ -3,13 +3,13 @@
 # Análise e Previsões de Dados do Câncer de Mama
 Equipe técnica: Amanda Divina, Tainá Costa e Vinícius Santos
 
-Este projeto tem como objetivo aprimorar o diagnóstico e tratamento do câncer de mama por meio da análise de dados médicos. Utilizando uma arquitetura de processamento de dados em tempo real e em lote (Lambda Architecture), a solução combina técnicas de machine learning com Big Data para fornecer previsões precisas e insights rápidos que podem apoiar decisões clínicas e pesquisas sobre a doença.
+A Data Health é uma empresa de consultoria especializada em soluções de dados para o setor da saúde, com foco no apoio a institutos de pesquisa e pesquisadores. Nossa expertise reside em fornecer suporte tecnológico avançado para o consumo e tratamento eficiente de dados relacionados ao câncer de mama. Facilitamos a análise aprofundada de informações provenientes do DATASUS e DATASENSUS, contribuindo diretamente para pesquisas que podem impulsionar o diagnóstico precoce, o desenvolvimento de novas terapias e, potencialmente, a cura dessa doença. Nosso compromisso é viabilizar descobertas científicas que transformem o panorama da saúde e gerem benefícios significativos para a sociedade como um todo.
 
 ## Definição do Caso de Uso
 
 ### 1. **Mercado e Aplicação**
 
-Este projeto está voltado para a área da **saúde**, mais especificamente para o diagnóstico e a **prevenção do câncer de mama**. Através de dados clínicos e exames médicos (como mamografias e biópsias), a solução visa otimizar a detecção precoce e melhorar as decisões médicas relacionadas à doença.
+EO projeto da **Data Health** está direcionado ao setor da saúde, com ênfase na oncologia, especificamente no combate ao câncer de mama. A solução de arquitetura de dados que estamos desenvolvendo é projetada para atender a diversos segmentos dentro deste mercado.
 
 ### 2. **Problema Resolvido**
 
@@ -20,10 +20,27 @@ O câncer de mama é uma das principais causas de morte entre mulheres globalmen
 
 ### 3. **Público-Alvo**
 
-O público-alvo do projeto inclui:
-- **Profissionais de saúde:** Médicos, oncologistas e especialistas que podem usar os resultados para tomar decisões mais informadas no diagnóstico e tratamento.
-- **Pesquisadores:** Cientistas e acadêmicos que buscam novos padrões e insights para a prevenção e tratamento do câncer de mama.
-- **Instituições de saúde:** Hospitais e clínicas que podem integrar a solução para otimizar seus processos de diagnóstico e monitoramento de pacientes.
+####3.1 **Hospitais e Clínicas Especializadas**: 
+- Instituições de saúde que buscam aprimorar o diagnóstico e o tratamento do câncer de mama, precisam integrar e analisar dados clínicos para oferecer cuidados personalizados e eficientes.
+
+####3.2 **Centros de Pesquisa e Universidades**:
+- Entidades acadêmicas que realizam estudos sobre o câncer de mam, demandam acesso a dados confiáveis para desenvolver pesquisas e inovações médicas.
+
+####3.2 **Laboratórios Farmacêuticos e Indústrias de Biotecnologia**:
+
+-Empresas que desenvolvem medicamentos e terapias contra o câncer utilizam dados para identificar necessidades, testar eficácia e monitorar resultados.
+
+####3.3 **Órgãos Governamentais e Instituições de Saúde Pública**:
+- Agências que criam políticas de saúde e programas de prevenção precisam de análise de dados populacionais para tomar decisões informadas e implementar estratégias eficazes.
+
+####3.4 **Operadoras de Planos de Saúde e Seguradoras**:
+- Empresas que gerenciam riscos e custos relacionados à saúde, buscam otimizar recursos através da análise de dados epidemiológicos e clínicos.
+
+####3.5 **Organizações Não Governamentais e Instituições Filantrópicas**:
+- Grupos que apoiam pacientes e promovem a conscientização sobre o câncer de mama necessitam de dados para direcionar campanhas e medir o impacto de suas ações.
+
+####3.6 **Startups e Empresas de Tecnologia em Saúde**:
+- Negócios que desenvolvem soluções tecnológicas para o setor da saúde podem integrar nossa plataforma para aprimorar aplicativos e serviços voltados ao bem-estar e monitoramento de saúde.
 
 ### 4. **Viabilidade Técnica**
 
